@@ -28,4 +28,5 @@ En esta versión se han realizado varios cambios:
     - description: *Demostrating the REFramework with UiDemo*.
 - Dentro del directorio Data:
     - Creada una Sequence llamada Dispatcher.xaml.
+
 <span style="color: red">En la propiedad SheetName de la actividad ReadRange hay que tener cuidado con el idioma con el que tengamos excel</span>.
