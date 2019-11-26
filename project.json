@@ -1,6 +1,6 @@
 {
-  "name": "Robot_Nivel_3",
-  "description": "Robotic Enterprise Framework",
+  "name": "UiPath_REFrameWork_UiDemo",
+  "description": "Demostrating the REFramework with UiDemo",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
