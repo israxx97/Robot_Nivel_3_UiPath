@@ -24,8 +24,8 @@ En esta versión encontraremos los archivos generados al crear un nuevo proyecto
 En esta versión se han realizado varios cambios:
 
 - Se cambiaron 2 campos del archivo project.json:
-    - name: ~~UiPath_REFrameWork_UiDemo~~.
-    - description: ~~Demostrating the REFramework with UiDemo~~.
+    - name: *UiPath_REFrameWork_UiDemo*.
+    - description: *Demostrating the REFramework with UiDemo*.
 - Dentro del directorio Data:
     - Creada una Sequence llamada Dispatcher.xaml.
-    - <span style="color: red">En la propiedad SheetName de la actividad ReadRange hay que tener cuidado con el idioma con el que tengamos excel</span>.
+<span style="color: red">En la propiedad SheetName de la actividad ReadRange hay que tener cuidado con el idioma con el que tengamos excel</span>.
